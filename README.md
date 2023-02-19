@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sidiqolaniyi" target="blank"><img src="https://img.shields.io/twitter/follow/sidiqolaniyi?logo=twitter&style=for-the-badge" alt="sidiqolaniyi" /></a> </p>
 
-- 🔭 I’m currently working on **DoroTask**
-
-- 🌱 I’m currently learning **FullStack Web Development**
+- 🔭 I’m currently working on **DoroTask: A Time Managment Application**
 
 - 👨‍💻 All of my projects are available at [https://ganiyusodiq.github.io/portfolio/](https://ganiyusodiq.github.io/portfolio/)
 
